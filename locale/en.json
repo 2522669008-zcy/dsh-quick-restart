@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Restart",
+    "description": "Adds a restart button to the Windows caption strip. A detached script closes every DSH desktop process, waits for them to exit, then reopens the app."
+  }
+}

@@ -1,0 +1,14 @@
+# Installed by the package manager; never committed.
+node_modules/
+
+# Publish/build artifacts.
+*.tgz
+*.log
+
+# Editor / OS noise.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Restart logs written by restart.ps1 live in %TEMP%, not here — nothing to ignore.

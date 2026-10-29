@@ -1,0 +1,8 @@
+# Bundle layer for dsh-quick-restart.
+#
+# One Host row. The package also ships a Client module (`dsh.client`), which the Web UI
+# loads separately; the row id and the package name must match, or the loader warns and
+# silently skips the row.
+- insert:
+    - id: dsh-quick-restart
+      name: dsh-quick-restart
